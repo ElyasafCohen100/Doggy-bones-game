@@ -17,8 +17,8 @@
 ## 🏷️ Technologies & Tools
 
 ### 🎮 Game Development
-![Processing](https://img.shields.io/badge/Processing-Game_Engine-006699?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-Core_Language-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Processing](https://img.shields.io/badge/Processing-Game_Engine-006699?style=for-the-badge)
 
 ### 🎨 Assets & Media
 ![Sprites](https://img.shields.io/badge/Sprites-Graphics-FF69B4?style=for-the-badge)
@@ -73,7 +73,7 @@ Easy to play, fun to master!
 
 ---
 
-## 👨‍💻 Author 👨‍💻
+## Create with good vibes by: 🎉
 
 Elyasaf Cohen 🤟😎
 
@@ -89,5 +89,6 @@ This project demonstrates:
 - Use of graphics, sound, and user input  
 - Fun-first development with clean structure  
 
+---
+
 > ✨ If you like this project – please leave a star! ✨ 
-בעזרת השם — **100 במבחן** 💯🙏🎮
