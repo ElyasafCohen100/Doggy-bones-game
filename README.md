@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="me1.jpg" width="140" style="border-radius:100%"/>
+    <img src="me.jpg" width="140" style="border-radius:100%"/>
 </p>
 
 # 🐶 Doggy Bones Game 🦴
