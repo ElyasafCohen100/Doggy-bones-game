@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ElyasafCohen100">
-    <img src="me1.jpg" width="140" style="border-radius:50%"/>
+    <img src="me1.jpg" width="140" style="border-radius:80%"/>
   </a>
 </p>
 
