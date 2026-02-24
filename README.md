@@ -73,7 +73,17 @@ Easy to play, fun to master!
 
 ## Create with good vibes by: 🎉
 
-Elyasaf Cohen 🤟😎
+<p align="center">
+  <img src="EC.jpeg" width="600">
+</p>
+                                            
+<p align="center">                    
+  <a href="https://github.com/ElyasafCohen100">
+      Elyasaf Cohen 🤟😎
+    <img src="https://img.shields.io/badge/GitHub-Elyasaf_Cohen-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+
 
 [![Elyasaf Cohen](https://img.shields.io/badge/GitHub-ElyasafCohen100-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ElyasafCohen100)
 
