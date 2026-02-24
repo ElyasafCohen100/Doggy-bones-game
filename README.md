@@ -74,7 +74,7 @@ Easy to play, fun to master!
 ## Create with good vibes by: 🎉
 
 <p align="center">
-  <img src="EC.jpeg" width="600">
+  <img src="EC3.jpeg" width="600">
 </p>
                              
 <p align="center">                    
