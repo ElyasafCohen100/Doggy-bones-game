@@ -68,8 +68,8 @@ Easy to play, fun to master!
 ## 🎥 Gameplay Demo 🎥
 
 <p align="center">                    
-  <a href="https://github.com/ElyasafCohen100">
-     ![Doggy Bones Demo](doggy_bones_demo.gif)
+  <a>
+    ![Doggy Bones Demo](doggy_bones_demo.gif)
   </a>
 </p>
 
