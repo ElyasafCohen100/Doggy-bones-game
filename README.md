@@ -27,7 +27,19 @@
 
 ---
 
+## 🚀 Quick Game Info
+
+| Feature | Description |
+|-------|-------------|
+| 🎮 Game Engine | Processing |
+| 🐶 Main Character | Doggy |
+| 🦴 Objective | Collect bones |
+| ❤️ Lives System | Hearts |
+| 🏆 Goal | Beat your high score |
+
 ## 🏷️ Technologies & Tools
+
+---
 
 ### 🎮 Game Development
 ![Java](https://img.shields.io/badge/Java-Core_Language-ED8B00?style=for-the-badge&logo=java&logoColor=white)
