@@ -2,7 +2,7 @@
     <img src="me.jpg" width="140" style="border-radius:100%"/>
 </p>
 
-# 🐶 Doggy Bones Game 🦴
+# 🐶 Doggy Bones Game 
 
 ![GitHub stars](https://img.shields.io/github/stars/ElyasafCohen100/Doggy-bones-game?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/ElyasafCohen100/Doggy-bones-game?style=social)
