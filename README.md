@@ -12,6 +12,21 @@
 
 ---
 
+## 📌 Navigation
+
+| Section | Jump |
+|--------|------|
+| ✨ Overview | [Go](#-overview-) |
+| 🎮 How to Play | [Go](#-how-to-play-) |
+| 🏷️ Technologies & Tools | [Go](#️-technologies--tools) |
+| 📁 Project Files | [Go](#-project-files-) |
+| 🖼️ Screenshots | [Go](#️-screenshots-) |
+| 🎥 Gameplay Demo | [Go](#-gameplay-demo-) |
+| 🎉 Credits | [Go](#create-with-good-vibes-by-) |
+| 💥 Final Notes | [Go](#-final-notes-) |
+
+---
+
 ## 🏷️ Technologies & Tools
 
 ### 🎮 Game Development
