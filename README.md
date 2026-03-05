@@ -12,35 +12,6 @@
 
 ---
 
-## 📌 Navigation
-
-| Section | Jump |
-|--------|------|
-| ✨ Overview | [Go](#-overview-) |
-| 🎮 How to Play | [Go](#-how-to-play-) |
-| 🏷️ Technologies & Tools | [Go](#️-technologies--tools) |
-| 📁 Project Files | [Go](#-project-files-) |
-| 🖼️ Screenshots | [Go](#️-screenshots-) |
-| 🎥 Gameplay Demo | [Go](#-gameplay-demo-) |
-| 🎉 Credits | [Go](#create-with-good-vibes-by-) |
-| 💥 Final Notes | [Go](#-final-notes-) |
-
----
-
-## 🚀 Quick Game Info
-
-| Feature | Description |
-|-------|-------------|
-| 🎮 Game Engine | Processing |
-| 🐶 Main Character | Doggy |
-| 🦴 Objective | Collect bones |
-| ❤️ Lives System | Hearts |
-| 🏆 Goal | Beat your high score |
-
-## 🏷️ Technologies & Tools
-
----
-
 ### 🎮 Game Development
 ![Java](https://img.shields.io/badge/Java-Core_Language-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Processing](https://img.shields.io/badge/Processing-Game_Engine-006699?style=for-the-badge)
